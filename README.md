@@ -1,1 +1,1 @@
-# rocketseat-ignite--nodejs-desafio-database-queries
+# rocketseat-ignite-nodejs-desafio-database-queries
